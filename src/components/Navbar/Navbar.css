@@ -1,0 +1,38 @@
+nav {
+    background-color: var(--col2);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+
+  
+  .left {
+    display: flex;
+    align-items: center;
+  }
+  nav h1{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--col1);
+    margin-right: 20px;
+  }
+
+
+  
+ 
+  
+  .right {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+  }
+  
+ 
+  
+  .theme_icon1 {
+    font-size: 1.5rem;
+  }
+  
+
